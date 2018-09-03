@@ -13,3 +13,4 @@
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.3.php">5.14.3. Многомерные массивы</a> (стр. 445)<br>
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.4.php">5.14.4. Ассоциативные массивы</a> (стр. 445)<br>
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.5.php">5.14.5. Слияние массивов</a> (стр. 447)<br>
+<a href="https://github.com/Jack36VRN/php/blob/master/5.14.6.php">5.14.6. Перебор элементов массива</a> (стр. 447)<br>
