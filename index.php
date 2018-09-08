@@ -21,10 +21,12 @@
 	<a href="5.14.4.php" target="_blank">5.14.4. Ассоциативные массивы</a><br>
 	<a href="5.14.5.php" target="_blank">5.14.5. Слияние массивов</a><br>
 	<a href="5.14.6.php" target="_blank" style="color: red;">5.14.6. Перебор элементов массива</a><br>
+	<a href="5.14.7.php" target="_blank">5.14.7. Добавление и удаление элементов массива</a><br>
+	<a href="5.14.8.php" target="_blank">5.14.8. Переворачивание и перемешивание массива</a><br>
+	<a href="5.14.9.php" target="_blank" style="color: red;">5.14.9. Сортировка массива. Создание пользовательской сортировки*</a><br>
 	<?php
 		echo "<br>\n";
 
-		
 	?>
 
 </body>
