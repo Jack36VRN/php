@@ -14,3 +14,6 @@
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.4.php">5.14.4. Ассоциативные массивы</a> (стр. 445)<br>
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.5.php">5.14.5. Слияние массивов</a> (стр. 447)<br>
 <a href="https://github.com/Jack36VRN/php/blob/master/5.14.6.php">5.14.6. Перебор элементов массива</a> (стр. 447)<br>
+<a href="https://github.com/Jack36VRN/php/blob/master/5.14.7.php">5.14.7. Добавление и удаление элементов массива</a> (стр. 451)<br>
+<a href="https://github.com/Jack36VRN/php/blob/master/5.14.8.php">5.14.8. Переворачивание и перемешивание массива (стр. 452)</a><br>
+<a href="https://github.com/Jack36VRN/php/blob/master/5.14.9.php">5.14.9. Сортировка массива. Создание пользовательской сортировки</a> (стр. 453)<br>
